@@ -1,1 +1,0 @@
-this repo contains all statistical method I have learned.
